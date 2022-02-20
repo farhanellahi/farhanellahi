@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @farhanellahi
+- 👀 I’m interested in Web & Mobile Development
+- 🌱 I’m currently learning Flutter
+- 📫 reach out me:  farhan987ellahi@gmail.com
